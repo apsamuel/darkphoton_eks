@@ -4,3 +4,5 @@ kubeconfig*
 *.tfstate
 *.backup
 *.lock.*
+.idea
+.vscode
