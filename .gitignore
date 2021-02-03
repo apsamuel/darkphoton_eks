@@ -1,2 +1,5 @@
 kubeconfig*
 .terraform
+*.plan
+*.tfstate
+*.backup
