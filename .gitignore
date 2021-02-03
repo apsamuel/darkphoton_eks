@@ -3,3 +3,4 @@ kubeconfig*
 *.plan
 *.tfstate
 *.backup
+*.lock.*
